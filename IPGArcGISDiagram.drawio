@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-13T15:15:25.926Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="hFRw77ugagatqE6-Pj92" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-13T15:16:07.263Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="ee-gWlt5w3rVpsYd_PbX" version="12.5.1" type="github">
   <diagram id="RrptMt3UVPA0-fgu4y3d" name="Page-1">
     <mxGraphModel dx="2575" dy="1853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" math="0" shadow="0">
       <root>
@@ -269,7 +269,7 @@
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-140" value="C# Module" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1560" y="1400" width="60" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="AnNf2u-RFWLlp_xf4QVU-143" value="&lt;h1&gt;Major Questions&lt;/h1&gt;&lt;p&gt;- Where are the C# and Python Modules located?&amp;nbsp; What Server?&amp;nbsp; How are calls being made with, through, and by them?&lt;/p&gt;&lt;p&gt;- What are all the VMs (Addresses and links included)?&lt;/p&gt;&lt;p&gt;-&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;fontColor=#FF0000;align=left;" vertex="1" parent="1">
+        <mxCell id="AnNf2u-RFWLlp_xf4QVU-143" value="&lt;h1&gt;Major Questions&lt;/h1&gt;&lt;p&gt;- Where are the C# and Python Modules located?&amp;nbsp; What Server?&amp;nbsp; How are calls being made with, through, and by them?&lt;/p&gt;&lt;p&gt;- What are all the VMs (Addresses and links included)?&lt;/p&gt;&lt;p&gt;- What are all the services that are being pulled into Arc, either for the NICC or the CISA Map?&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;fontColor=#FF0000;align=left;" vertex="1" parent="1">
           <mxGeometry x="1120" y="40" width="1040" height="400" as="geometry"/>
         </mxCell>
       </root>
