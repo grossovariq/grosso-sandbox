@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-21T21:17:26.426Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="hlXikQ_HRgqCPDR5N8mX" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-21T21:17:54.158Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="IMrORa84J4EUZHbyHGnP" version="12.5.5" type="github">
   <diagram id="RrptMt3UVPA0-fgu4y3d" name="Page-1">
     <mxGraphModel dx="3595" dy="3099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" math="0" shadow="0">
       <root>
@@ -464,6 +464,9 @@
         </mxCell>
         <mxCell id="TlTubxZpk76HmFt2pTOC-2" value="&lt;font color=&quot;#ff0000&quot;&gt;Are we missing any domains/boxes/Networks?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="392" y="960" width="260" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="TlTubxZpk76HmFt2pTOC-3" value="&lt;font color=&quot;#ff0000&quot;&gt;Are these needed if we don&#39;t use Pulse?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1698" y="1654" width="230" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
