@@ -1,9 +1,12 @@
-<mxfile host="www.draw.io" modified="2020-01-21T23:02:00.404Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="neOsLZRj7pwYlz0ZCl-f" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-22T13:37:20.190Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="nfi5um48BMqvd4f4NHHW" version="12.5.5" type="github">
   <diagram id="RrptMt3UVPA0-fgu4y3d" name="Page-1">
-    <mxGraphModel dx="6153" dy="4670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" math="0" shadow="0">
+    <mxGraphModel dx="4572" dy="3682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
+        <mxCell id="TlTubxZpk76HmFt2pTOC-21" value="Open Web" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=8;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="950" width="660" height="650" as="geometry"/>
+        </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-145" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Domain/Network&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=15;dashed=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="40" y="-640" width="440" height="600" as="geometry"/>
         </mxCell>
@@ -62,10 +65,10 @@
           <mxGeometry x="1680" y="1080" width="60" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-139" value="C# Module" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="1760" width="60" height="40" as="geometry"/>
+          <mxGeometry x="1787" y="1590" width="60" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-140" value="C# Module" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="1840" width="60" height="40" as="geometry"/>
+          <mxGeometry x="1787" y="1670" width="60" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-143" value="&lt;h1&gt;Major Questions&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Where are the C# and Python Modules located?&amp;nbsp; What Server?&amp;nbsp; How are calls being made with, through, and by them?&lt;/li&gt;&lt;li&gt;What are all the VMs (Addresses and links included)?&lt;/li&gt;&lt;li&gt;What are all the services that are being pulled into Arc, either for the NICC or the CISA Map?&lt;/li&gt;&lt;li&gt;What exactly is happening when Pulse talks to AD?&amp;nbsp; Where is AD, what is AD?&amp;nbsp; Does AD actually say if you do or do not have an IPG account?&lt;/li&gt;&lt;li&gt;Where di Pulse, HSIN, AD, and UM live?&lt;/li&gt;&lt;li&gt;Where are the OAD Jumps&lt;/li&gt;&lt;li&gt;How do the buildings come into play?&lt;/li&gt;&lt;li&gt;Where are the Oracle Dbs for Arc and how are they connected?&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;fontColor=#FF0000;align=left;" parent="1" vertex="1">
           <mxGeometry x="1120" width="1040" height="400" as="geometry"/>
@@ -460,7 +463,7 @@
           <mxGeometry x="392" y="960" width="260" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="TlTubxZpk76HmFt2pTOC-3" value="&lt;font color=&quot;#ff0000&quot;&gt;Are these needed if we don&#39;t use Pulse?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1238" y="1814" width="230" height="20" as="geometry"/>
+          <mxGeometry x="1705" y="1644" width="230" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="TlTubxZpk76HmFt2pTOC-4" value="datacapable.py" style="shape=document;boundedLbl=1;fontSize=8;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1680" y="1320" width="60" height="40" as="geometry"/>
@@ -506,9 +509,6 @@
         </mxCell>
         <mxCell id="TlTubxZpk76HmFt2pTOC-20" value="Open Web" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="260" y="-240" width="120" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="TlTubxZpk76HmFt2pTOC-21" value="Open Web" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=8;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2220" y="950" width="660" height="650" as="geometry"/>
         </mxCell>
         <mxCell id="TlTubxZpk76HmFt2pTOC-22" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ff0000&quot;&gt;Questions for Saravana&lt;br&gt;How many VMs total right now?&lt;br&gt;How man proposed down the road?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="540" y="50" width="240" height="40" as="geometry"/>
