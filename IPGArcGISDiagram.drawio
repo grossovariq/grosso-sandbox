@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-24T15:58:32.824Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="XYAMr4gghG9opdTz6Luh" version="12.5.6" type="github">
+<mxfile host="www.draw.io" modified="2020-01-24T16:00:27.121Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="eDn0xNDZfuU6qv8F_y6Q" version="12.5.6" type="github">
   <diagram id="RrptMt3UVPA0-fgu4y3d" name="Page-1">
-    <mxGraphModel dx="3626" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" math="0" shadow="0">
+    <mxGraphModel dx="4237" dy="1306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -328,9 +328,6 @@
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-237" value="Where does squid live?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontColor=#FF0000;" parent="TlTubxZpk76HmFt2pTOC-24" vertex="1">
           <mxGeometry width="120" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="TlTubxZpk76HmFt2pTOC-26" value="&lt;font style=&quot;font-size: 55px&quot; color=&quot;#ff0000&quot;&gt;Clusters?!!!!&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="985" y="952" width="310" height="30" as="geometry"/>
-        </mxCell>
         <mxCell id="TlTubxZpk76HmFt2pTOC-28" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Text by color&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="-242.38" y="90" width="110" height="20" as="geometry"/>
         </mxCell>
@@ -504,7 +501,7 @@
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-94" value="Hosted.b" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry x="1200" y="1340" width="80" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="AnNf2u-RFWLlp_xf4QVU-95" value="VM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=8;fontColor=#009900;verticalAlign=bottom;" parent="1" vertex="1">
+        <mxCell id="AnNf2u-RFWLlp_xf4QVU-95" value="p-gis-db01-b" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=8;fontColor=#009900;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="1200" y="1440" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-96" value="Datastore.b" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
@@ -532,7 +529,7 @@
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-60" value="Hosted.a" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry x="1000" y="1340" width="80" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="AnNf2u-RFWLlp_xf4QVU-66" value="VM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
+        <mxCell id="AnNf2u-RFWLlp_xf4QVU-66" value="p-gis-db01-a" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fontColor=#009900;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="1000" y="1440" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-67" value="Datastore.a" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
