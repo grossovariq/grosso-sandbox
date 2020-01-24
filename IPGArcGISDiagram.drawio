@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-24T16:00:27.121Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="eDn0xNDZfuU6qv8F_y6Q" version="12.5.6" type="github">
+<mxfile host="www.draw.io" modified="2020-01-24T16:05:05.055Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="koVGSoDJd9tDbVGSF57i" version="12.5.6" type="github">
   <diagram id="RrptMt3UVPA0-fgu4y3d" name="Page-1">
-    <mxGraphModel dx="4237" dy="1306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" math="0" shadow="0">
+    <mxGraphModel dx="3388" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -367,7 +367,7 @@
         <mxCell id="0sa8Q4lDrQcxCernjeHR-12" value="Load Balancer" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=middle;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry x="1040" y="1090" width="200" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="AnNf2u-RFWLlp_xf4QVU-68" value="VM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
+        <mxCell id="AnNf2u-RFWLlp_xf4QVU-68" value="p-gis-web01-a" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=8;fontColor=#009900;verticalAlign=bottom;align=center;" parent="1" vertex="1">
           <mxGeometry x="760" y="1200" width="320" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="1" source="AnNf2u-RFWLlp_xf4QVU-59" target="AnNf2u-RFWLlp_xf4QVU-61" edge="1">
@@ -402,7 +402,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AnNf2u-RFWLlp_xf4QVU-91" value="VM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
+        <mxCell id="AnNf2u-RFWLlp_xf4QVU-91" value="p-gis-web01-b" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=8;fontColor=#009900;verticalAlign=bottom;align=center;" parent="1" vertex="1">
           <mxGeometry x="1200" y="1200" width="320" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="1" source="AnNf2u-RFWLlp_xf4QVU-102" target="AnNf2u-RFWLlp_xf4QVU-107" edge="1">
