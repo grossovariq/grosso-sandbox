@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-03T15:07:45.173Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="cIVm1ya-Tavl3wUvaLlY" version="12.6.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-03T15:11:25.071Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="dMp1dEovI4xUWDVCCr2c" version="12.6.4" type="github">
   <diagram id="RrptMt3UVPA0-fgu4y3d" name="Page-1">
-    <mxGraphModel dx="5383" dy="2830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" math="0" shadow="0">
+    <mxGraphModel dx="5826" dy="3114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -628,7 +628,7 @@
           <mxGeometry width="360" height="210" as="geometry"/>
         </mxCell>
         <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-76" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="540" y="2840" width="360" height="200" as="geometry"/>
+          <mxGeometry x="650" y="3170" width="360" height="200" as="geometry"/>
         </mxCell>
         <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-72" value="SCFATS/o13650 is the executive order" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="ZHYYQ9ZwdNW2HlEYeT_7-76" vertex="1">
           <mxGeometry width="360" height="200" as="geometry"/>
@@ -646,7 +646,7 @@
           <mxGeometry x="80" y="80" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-83" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="120" y="3020" width="360" height="180" as="geometry"/>
+          <mxGeometry x="150" y="3220" width="360" height="180" as="geometry"/>
         </mxCell>
         <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-77" value="PCIIMS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="ZHYYQ9ZwdNW2HlEYeT_7-83" vertex="1">
           <mxGeometry x="170" y="50" width="80" height="80" as="geometry"/>
@@ -807,18 +807,6 @@
         <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-23" value="&lt;font color=&quot;#3333ff&quot;&gt;BASEUBUNTU 2.105&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;&lt;br&gt;vdb6.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fontSize=10;align=center;fillColor=#f8cecc;" parent="o-m4nZUa6Q5gD_CgMhvf-9" vertex="1">
           <mxGeometry x="160.0000000000001" y="40" width="80" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="o-m4nZUa6Q5gD_CgMhvf-11" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="80" y="2840" width="280" height="160" as="geometry"/>
-        </mxCell>
-        <mxCell id="o-m4nZUa6Q5gD_CgMhvf-10" value="CFATSApp (Decommissioned)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;2008 VM that has been decommissioned&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#3333FF;" parent="o-m4nZUa6Q5gD_CgMhvf-11" vertex="1">
-          <mxGeometry width="280" height="160" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-24" value="&lt;font color=&quot;#3333ff&quot;&gt;CFATSApp1_OFF&lt;/font&gt;&lt;br&gt;&lt;br&gt;Secondary&lt;br&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;vapp132.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fontSize=10;align=center;fillColor=#f8cecc;" parent="o-m4nZUa6Q5gD_CgMhvf-11" vertex="1">
-          <mxGeometry x="40" y="40" width="80" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-26" value="&lt;font color=&quot;#3333ff&quot;&gt;CFATSApp2_OFF&lt;/font&gt;&lt;br&gt;&lt;br&gt;Secondary&lt;br&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;vdb5.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fontSize=10;align=center;fillColor=#f8cecc;" parent="o-m4nZUa6Q5gD_CgMhvf-11" vertex="1">
-          <mxGeometry x="160.0000000000001" y="40" width="80" height="80" as="geometry"/>
-        </mxCell>
         <mxCell id="o-m4nZUa6Q5gD_CgMhvf-12" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-2120" y="-2080" width="520" height="160" as="geometry"/>
         </mxCell>
@@ -836,18 +824,6 @@
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-219" value="Jump 4" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fontColor=#3333FF;" parent="o-m4nZUa6Q5gD_CgMhvf-12" vertex="1">
           <mxGeometry x="400" y="35.92000000000007" width="80" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-32" value="&lt;font color=&quot;#3333ff&quot;&gt;Dependancies&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;How do the dependencies work and what applications are they rooted with?" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-520" y="2480" width="400" height="160" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-28" value="&lt;font color=&quot;#0000ff&quot;&gt;DEPASSTAGE 2.221&lt;br&gt;&lt;/font&gt;&lt;br&gt;Staging&lt;br&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;sapp74.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="2520" width="80" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-29" value="&lt;font color=&quot;#0000ff&quot;&gt;DEPAS1 2.191&lt;/font&gt;&lt;br&gt;&lt;br&gt;Primary&lt;br&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;vapp72.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="-480" y="2520" width="80" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-30" value="&lt;font color=&quot;#0000ff&quot;&gt;DEPAS2 2.192&lt;/font&gt;&lt;br&gt;&lt;br&gt;Secondary&lt;br&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;vdb7.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="-360" y="2520" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-2120" y="-1880" width="280" height="160" as="geometry"/>
@@ -877,6 +853,39 @@
           <mxGeometry x="40" y="40" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-6" value="&lt;font color=&quot;#3333ff&quot;&gt;ADMINRSA2 0.5&lt;/font&gt;&lt;br&gt;&lt;br&gt;Secondary&lt;br style=&quot;font-size: 6px&quot;&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;vapp11.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-3">
+          <mxGeometry x="160" y="40" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="2840" width="280" height="160" as="geometry"/>
+        </mxCell>
+        <mxCell id="o-m4nZUa6Q5gD_CgMhvf-11" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-10" vertex="1" connectable="0">
+          <mxGeometry width="280" height="160" as="geometry"/>
+        </mxCell>
+        <mxCell id="o-m4nZUa6Q5gD_CgMhvf-10" value="CFATSApp (Decommissioned)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 8px&quot;&gt;2008 VM that has been decommissioned&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#3333FF;" parent="o-m4nZUa6Q5gD_CgMhvf-11" vertex="1">
+          <mxGeometry width="280" height="160" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-24" value="&lt;font color=&quot;#3333ff&quot;&gt;CFATSApp1_OFF&lt;/font&gt;&lt;br&gt;&lt;br&gt;Secondary&lt;br&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;vapp132.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fontSize=10;align=center;fillColor=#f8cecc;" parent="o-m4nZUa6Q5gD_CgMhvf-11" vertex="1">
+          <mxGeometry x="40" y="40" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-26" value="&lt;font color=&quot;#3333ff&quot;&gt;CFATSApp2_OFF&lt;/font&gt;&lt;br&gt;&lt;br&gt;Secondary&lt;br&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;vdb5.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fontSize=10;align=center;fillColor=#f8cecc;" parent="o-m4nZUa6Q5gD_CgMhvf-11" vertex="1">
+          <mxGeometry x="160.0000000000001" y="40" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="3040" width="400" height="160" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-9" value="" style="group" vertex="1" connectable="0" parent="IM_9Rua3a0QNbLJxY3Cq-11">
+          <mxGeometry width="400" height="160" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-32" value="&lt;font color=&quot;#0000ff&quot;&gt;Dependancies&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 8px&quot;&gt;Notes&lt;/font&gt;&lt;br&gt;How do the dependencies work and what applications are they rooted with?&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-9" vertex="1">
+          <mxGeometry width="400" height="160" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-28" value="&lt;font color=&quot;#0000ff&quot;&gt;DEPASSTAGE 2.221&lt;br&gt;&lt;/font&gt;&lt;br&gt;Staging&lt;br&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;sapp74.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;" parent="IM_9Rua3a0QNbLJxY3Cq-9" vertex="1">
+          <mxGeometry x="280" y="40" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-29" value="&lt;font color=&quot;#0000ff&quot;&gt;DEPAS1 2.191&lt;/font&gt;&lt;br&gt;&lt;br&gt;Primary&lt;br&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;vapp72.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;" parent="IM_9Rua3a0QNbLJxY3Cq-9" vertex="1">
+          <mxGeometry x="40" y="40" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-30" value="&lt;font color=&quot;#0000ff&quot;&gt;DEPAS2 2.192&lt;/font&gt;&lt;br&gt;&lt;br&gt;Secondary&lt;br&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;vdb7.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;" parent="IM_9Rua3a0QNbLJxY3Cq-9" vertex="1">
           <mxGeometry x="160" y="40" width="80" height="80" as="geometry"/>
         </mxCell>
       </root>
