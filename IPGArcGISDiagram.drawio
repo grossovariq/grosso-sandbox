@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-03T21:23:00.689Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="ftW50FKrOnUd6dz8hF94" version="12.6.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-03T21:26:04.183Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="-QYw82ZkFV1DutZMulZD" version="12.6.4" type="github">
   <diagram id="RrptMt3UVPA0-fgu4y3d" name="Page-1">
-    <mxGraphModel dx="4970" dy="2566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" math="0" shadow="0">
+    <mxGraphModel dx="13907" dy="8293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -363,15 +363,6 @@
         </mxCell>
         <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-92" value="P-PUB" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="1" vertex="1">
           <mxGeometry x="860" y="3240" width="80" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-95" value="File01" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="1" vertex="1">
-          <mxGeometry x="790" y="3380" width="80" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-96" value="File01" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="1" vertex="1">
-          <mxGeometry x="800" y="3390" width="80" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-97" value="File01" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="1" vertex="1">
-          <mxGeometry x="810" y="3400" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-98" value="LNSDA" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="1" vertex="1">
           <mxGeometry x="1220" y="2598.5" width="80" height="80" as="geometry"/>
@@ -1368,6 +1359,27 @@
           <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-398" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-393">
+          <mxGeometry x="220" y="110" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-399" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="3320" width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-400" value="" style="group" vertex="1" connectable="0" parent="IM_9Rua3a0QNbLJxY3Cq-399">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-401" value="&lt;span style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;File Server&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Production File Server, 1st Node. Talk to Bryce Matheson or Erik Peterson. Provisioned by Ansible on 2018-04-11.&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-400">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-402" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;P-IPG-FILE01-A 2.185&lt;br&gt;&lt;/font&gt;&lt;br&gt;First Node&lt;br&gt;vapp132.vmware.local&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-400">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-403" value="&lt;font color=&quot;#3333ff&quot;&gt;P-IPG-FILE01-B 2.186&lt;br&gt;&lt;/font&gt;&lt;br&gt;Second Node&lt;br&gt;vapp42.vmware.local" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-400">
+          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-404" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-400">
+          <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-405" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-400">
           <mxGeometry x="220" y="110" width="80" height="40" as="geometry"/>
         </mxCell>
       </root>
