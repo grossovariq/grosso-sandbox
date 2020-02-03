@@ -1,9 +1,12 @@
-<mxfile host="www.draw.io" modified="2020-02-03T18:03:51.878Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="I2ChbrvSbjHFq412B1wr" version="12.6.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-03T18:36:37.229Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="RBV5tcu68GdX4Qv1jMLV" version="12.6.4" type="github">
   <diagram id="RrptMt3UVPA0-fgu4y3d" name="Page-1">
-    <mxGraphModel dx="6078" dy="3275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" math="0" shadow="0">
+    <mxGraphModel dx="6777" dy="3723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-236" value="&lt;font style=&quot;font-size: 15px&quot;&gt;.20 Domain&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Is this the staging domain for Lens .2?&lt;br&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=15;dashed=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="2200" width="440" height="360" as="geometry"/>
+        </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-115" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Lens/172.16.2.x&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=10;dashed=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;fontColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry x="40" y="1000" width="1600" height="2550" as="geometry"/>
         </mxCell>
@@ -347,13 +350,13 @@
           <mxGeometry x="290" y="2898.5" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-63" value="Scanner VM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="1" vertex="1">
-          <mxGeometry x="140" y="-2110" width="80" height="80" as="geometry"/>
+          <mxGeometry x="320" y="-1820" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-64" value="TNM01" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="1" vertex="1">
-          <mxGeometry x="160" y="-1984" width="80" height="80" as="geometry"/>
+          <mxGeometry x="552" y="-1830" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-70" value="" style="group;fontSize=10;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-500" y="2470" width="360" height="210" as="geometry"/>
+          <mxGeometry x="-630" y="2710" width="360" height="210" as="geometry"/>
         </mxCell>
         <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-66" value="NCCADAPP&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;Not our problem, migrating to the cloud" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="ZHYYQ9ZwdNW2HlEYeT_7-70" vertex="1">
           <mxGeometry x="100" y="60" width="80" height="80" as="geometry"/>
@@ -416,7 +419,7 @@
           <mxGeometry width="360" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-91" value="" style="group;fontSize=10;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-2000" y="-1620" width="360" height="190" as="geometry"/>
+          <mxGeometry x="-2120" y="-690" width="360" height="190" as="geometry"/>
         </mxCell>
         <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-88" value="P-IPG-ADMINDCO1&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;Domain controlers" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="ZHYYQ9ZwdNW2HlEYeT_7-91" vertex="1">
           <mxGeometry x="72" y="40" width="80" height="80" as="geometry"/>
@@ -624,18 +627,6 @@
         </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-34" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-35">
           <mxGeometry x="220" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-45" value="" style="group;fontSize=10;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1800" y="2360" width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-4" value="&lt;font color=&quot;#3333ff&quot; style=&quot;font-size: 10px;&quot;&gt;Example Item&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;text-align: center; font-size: 10px;&quot;&gt;&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 10px;&quot;&gt;RSA authentication for the admin domain&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Is there a load balancer?&amp;nbsp; How is failover handled?&lt;/span&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-45">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-5" value="&lt;font color=&quot;#3333ff&quot; style=&quot;font-size: 10px;&quot;&gt;ADMINRSA1 0.5&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;Primary&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;vapp102.vmware.local&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-45">
-          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-6" value="&lt;font color=&quot;#3333ff&quot; style=&quot;font-size: 10px;&quot;&gt;ADMINRSA2 0.5&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;Secondary&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;vapp11.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-45">
-          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-62" value="" style="group;fontSize=10;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="320" y="1280" width="200" height="240" as="geometry"/>
@@ -1001,7 +992,7 @@
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-187" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="80" y="2560" width="200" height="240" as="geometry"/>
         </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-183" value="&lt;font color=&quot;#3333ff&quot; style=&quot;font-size: 10px&quot;&gt;Tenable Log Correlation Engine&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;div&gt;Oracle Enterprise Manager Cloud Control. Provisioned by Ansible on 2019-06-17.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;labelBackgroundColor=none;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-187">
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-183" value="&lt;font color=&quot;#3333ff&quot; style=&quot;font-size: 10px&quot;&gt;Oracle Enterprise Manager&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;div&gt;Oracle Enterprise Manager Cloud Control. Provisioned by Ansible on 2019-06-17.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;labelBackgroundColor=none;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-187">
           <mxGeometry width="200" height="240" as="geometry"/>
         </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-184" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;M-IPG-EMCC01 2.122&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;vapp102.vmware.local&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-187">
@@ -1042,6 +1033,84 @@
         </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-197" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-207">
           <mxGeometry x="537.6199999999999" y="110" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-215" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="2558.5" width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-209" value="" style="group" vertex="1" connectable="0" parent="IM_9Rua3a0QNbLJxY3Cq-215">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-210" value="&lt;span style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;Splunk&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Splunk Server 1. Talk to Calvin Williams. Provisioned by Ansible on 2018-09-04.&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-209">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-211" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;M-IPG-LOG01 2.115&lt;br&gt;&lt;/font&gt;&lt;br&gt;Primary&lt;br&gt;vapp9.vmware.local&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-209">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-212" value="&lt;font color=&quot;#3333ff&quot;&gt;M-IPG-LOG02 2.116&lt;br&gt;&lt;/font&gt;&lt;br&gt;Secondary&lt;br&gt;vapp92.vmware.local" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-209">
+          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-213" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-209">
+          <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-214" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-209">
+          <mxGeometry x="220" y="110" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-222" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1400" y="-2120" width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-216" value="" style="group;fontSize=10;" vertex="1" connectable="0" parent="IM_9Rua3a0QNbLJxY3Cq-222">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-217" value="&lt;font color=&quot;#3333ff&quot; style=&quot;font-size: 10px&quot;&gt;OAD Jumps&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;text-align: center ; font-size: 10px&quot;&gt;&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;&lt;br&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-216">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-218" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;M-IPG-OAD01 0.10&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;vapp8.vmware.local&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-216">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-219" value="&lt;font color=&quot;#3333ff&quot;&gt;M-IPG-OAD02 0.11&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;vapp8.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-216">
+          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-220" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-216">
+          <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-221" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-216">
+          <mxGeometry x="220" y="110" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-223" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-2120" y="-1640" width="200" height="240" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-224" value="&lt;font color=&quot;#3333ff&quot;&gt;Nessus Scanner&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;div&gt;Tenable Nessus Scanner. Talk to Joseph McDonagh. Provisioned by Ansible on 2018-08-09.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;labelBackgroundColor=none;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-223">
+          <mxGeometry width="200" height="240" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-225" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;M-IPG-SCAN01 0.12&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;vapp102.vmware.local&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-223">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-226" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-223">
+          <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-227" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1720" y="2240" width="200" height="240" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-228" value="&lt;font color=&quot;#3333ff&quot;&gt;Nessus Scanner&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Nessus scanner for STAGE domain. Provisioned by Adam Dodd 20190727. | Provisioned by Ansible on 2019-07-27.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;labelBackgroundColor=none;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-227">
+          <mxGeometry width="200" height="240" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-229" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;M-IPG-SCAN03 20.115&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;sapp64.vmware.local&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-227">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-230" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-227">
+          <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-231" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="-2120" width="200" height="240" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-232" value="&lt;font color=&quot;#3333ff&quot;&gt;Nessus Scanner&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;div&gt;Tenable Nessus Scanner in the DMZ. Talk to Joseph McDonagh. Provisioned by Ansible on 2018-08-13.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;labelBackgroundColor=none;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-231">
+          <mxGeometry width="200" height="240" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-233" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;M-IPG-SCAN02 127.66&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;vdb5.vmware.local&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-231">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-234" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-231">
+          <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
