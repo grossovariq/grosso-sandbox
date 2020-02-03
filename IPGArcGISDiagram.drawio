@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-03T22:39:44.518Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="hnL64aRZSwmcTJhs1xfc" version="12.6.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-03T22:44:48.046Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="uRRwPM1TNDkFftikRbZ6" version="12.6.4" type="github">
   <diagram id="RrptMt3UVPA0-fgu4y3d" name="Page-1">
-    <mxGraphModel dx="7252" dy="4028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" math="0" shadow="0">
+    <mxGraphModel dx="6777" dy="3723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -375,15 +375,6 @@
         </mxCell>
         <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-116" value="IST&lt;br style=&quot;font-size: 10px;&quot;&gt;Mongo DB&lt;br style=&quot;font-size: 10px;&quot;&gt;Line 105" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="1" vertex="1">
           <mxGeometry x="140" y="3423.12" width="80" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-125" value="" style="group;fontSize=10;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="100" y="3093" width="90" height="90" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-123" value="P-OOPS-AUTH" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="ZHYYQ9ZwdNW2HlEYeT_7-125" vertex="1">
-          <mxGeometry width="80" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-124" value="P-OOPS-AUTH" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="ZHYYQ9ZwdNW2HlEYeT_7-125" vertex="1">
-          <mxGeometry x="10" y="10" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="o-m4nZUa6Q5gD_CgMhvf-2" value="Disconnected" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="-2682" y="360" width="82" height="80" as="geometry"/>
@@ -1524,6 +1515,24 @@
           <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-515" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-510">
+          <mxGeometry x="220" y="110" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-516" value="" style="group;fontSize=10;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="2720" width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-517" value="P-OOPS&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;AD LDS instance for UM to connect to the Owner/Operator portal (Port 2389). Talk to Shad Staples. | Provisioned by Ansible on 2019-11-12.&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#3333FF;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-516">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-518" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;P-OOPS-AUTH01-A 2.113 (OFF)&lt;br&gt;&lt;/font&gt;&lt;br&gt;Primary&lt;br style=&quot;font-size: 10px&quot;&gt;vdb52.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fontSize=10;align=center;fillColor=#f8cecc;verticalAlign=top;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-516">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-519" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;P-OOPS-AUTH01-B 2.114 (OFF)&lt;br&gt;&lt;/font&gt;&lt;br&gt;Secondary&lt;br style=&quot;font-size: 10px&quot;&gt;vdb6.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fontSize=10;align=center;fillColor=#f8cecc;verticalAlign=top;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-516">
+          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-520" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-516">
+          <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-521" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" vertex="1" parent="IM_9Rua3a0QNbLJxY3Cq-516">
           <mxGeometry x="220" y="110" width="80" height="40" as="geometry"/>
         </mxCell>
       </root>
