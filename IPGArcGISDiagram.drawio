@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-04T15:24:58.855Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="N-WqPAcoqJ4rKeBSQt5a" version="12.6.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-04T15:26:56.663Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="2fH3MDErq_9wdG2-mxkZ" version="12.6.4" type="github">
   <diagram id="RrptMt3UVPA0-fgu4y3d" name="Page-1">
     <mxGraphModel dx="4577" dy="3723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" math="0" shadow="0">
       <root>
@@ -241,17 +241,11 @@
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-148" value="&lt;font color=&quot;#3333ff&quot; style=&quot;font-size: 10px;&quot;&gt;Ron&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;fillColor=none;fontSize=10;fontColor=#FF0000;align=center;" parent="AnNf2u-RFWLlp_xf4QVU-231" vertex="1">
           <mxGeometry width="40" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="AnNf2u-RFWLlp_xf4QVU-234" value="What else is on this Domain?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="830" width="150" height="20" as="geometry"/>
-        </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-236" value="&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;What services am I missing here?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;What are their domains and credentials if needed?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Are there any trouble spots with these, including the scripts and on their own?&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="2890.48" y="1410" width="360" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-241" value="Where do all these live?&lt;br style=&quot;font-size: 10px;&quot;&gt;Specifically, the VMs and the networks" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="400" y="505" width="190" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="TlTubxZpk76HmFt2pTOC-2" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 10px;&quot;&gt;Are we missing any domains/boxes/Networks?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="412" y="960" width="220" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="TlTubxZpk76HmFt2pTOC-3" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 10px;&quot;&gt;Are these needed if we don&#39;t use Pulse?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="2325" y="1684" width="190" height="20" as="geometry"/>
