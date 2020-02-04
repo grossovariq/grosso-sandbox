@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-04T23:07:20.076Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="attlzIIvkgLw-mLKtfn8" version="12.6.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-04T23:09:11.267Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="yigMb8orMPes0e1qyWZL" version="12.6.4" type="github">
   <diagram id="RrptMt3UVPA0-fgu4y3d" name="Page-1">
-    <mxGraphModel dx="8637" dy="3506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" math="0" shadow="0">
+    <mxGraphModel dx="14083" dy="9817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -86,7 +86,7 @@
           <mxGeometry x="3117" y="-880" width="60" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-143" value="&lt;h1 style=&quot;font-size: 10px;&quot;&gt;Major Questions&lt;/h1&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;&lt;ol style=&quot;font-size: 10px;&quot;&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;What are all the server addresses and what is on each Server?&amp;nbsp;&lt;/b&gt;(Addresses and links included, if available, a table for the entire IPG would be great.)&lt;/li&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;Which VMs are on which networks?&lt;/li&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;Are any of the &quot;Sites&quot; clustered?&amp;nbsp; If so, is there anything noteworthy about the configuration?&lt;/li&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;Where are the C# and Python Modules located?&amp;nbsp; What Server?&lt;/li&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;What are all the services that are being pulled into Arc, either for the NICC or the CISA Map? (Links and authentication information included)&lt;/li&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;What exactly is happening when Pulse talks to AD?&amp;nbsp; Where is AD, what is AD?&amp;nbsp; Does AD actually say if you do or do not have an IPG account?&lt;/li&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;Where do Pulse, HSIN, AD, and UM live?&lt;/li&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;Where are the OAD Jumps&lt;/li&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;Where are the Oracle Dbs for Arc and how are they connected?&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=10;fontColor=#FF0000;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-4245" y="4650" width="1080" height="400" as="geometry"/>
+          <mxGeometry x="-1195" y="4680" width="1080" height="400" as="geometry"/>
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-146" value="Active&lt;br style=&quot;font-size: 10px;&quot;&gt;Directory" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry x="3922.38" y="7848.5" width="80" height="40" as="geometry"/>
@@ -200,34 +200,34 @@
           <mxGeometry x="4068.38" y="7932.5" width="30" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-204" value="Pulse" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
-          <mxGeometry x="-4980" y="5030" width="80" height="40" as="geometry"/>
+          <mxGeometry x="-1930" y="5060" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-207" value="HSIN" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
-          <mxGeometry x="-5070" y="4960" width="80" height="40" as="geometry"/>
+          <mxGeometry x="-2020" y="4990" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-208" value="AD" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
-          <mxGeometry x="-4980" y="4960" width="80" height="40" as="geometry"/>
+          <mxGeometry x="-1930" y="4990" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-209" value="UM" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
-          <mxGeometry x="-4890" y="4960" width="80" height="40" as="geometry"/>
+          <mxGeometry x="-1840" y="4990" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-210" value="Map View" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
-          <mxGeometry x="-5030" y="5110" width="80" height="40" as="geometry"/>
+          <mxGeometry x="-1980" y="5140" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-211" value="Index.&lt;br style=&quot;font-size: 10px;&quot;&gt;html/Page" style="shape=card;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontSize=10;fontColor=#3333FF;align=left;size=17;" parent="1" vertex="1">
           <mxGeometry x="3540" y="7450" width="60" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-213" value="NICC" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
-          <mxGeometry x="-4930" y="5110" width="80" height="40" as="geometry"/>
+          <mxGeometry x="-1880" y="5140" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-214" value="Lens DMZ/192.168.127" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=10;dashed=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;fontColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry x="80" y="-2160" width="2110" height="520" as="geometry"/>
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-220" value="Jump 6" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
-          <mxGeometry x="-4420" y="5340" width="80" height="80" as="geometry"/>
+          <mxGeometry x="-1370" y="5370" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-221" value="Jump 5" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
-          <mxGeometry x="-4540" y="5340" width="80" height="80" as="geometry"/>
+          <mxGeometry x="-1490" y="5370" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-227" value="Are we missing componants or miss-characterized parts?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="3475" y="7010" width="270" height="20" as="geometry"/>
@@ -248,7 +248,7 @@
           <mxGeometry x="3620.48" y="-1180" width="360" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-241" value="Where do all these live?&lt;br style=&quot;font-size: 10px;&quot;&gt;Specifically, the VMs and the networks" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-4900" y="5045" width="190" height="30" as="geometry"/>
+          <mxGeometry x="-1850" y="5075" width="190" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="TlTubxZpk76HmFt2pTOC-3" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 10px;&quot;&gt;Are these needed if we don&#39;t use Pulse?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="3055" y="-906" width="190" height="20" as="geometry"/>
@@ -299,7 +299,7 @@
           <mxGeometry x="3630" y="7450" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="TlTubxZpk76HmFt2pTOC-22" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ff0000&quot;&gt;Questions for Saravana&lt;br style=&quot;font-size: 10px;&quot;&gt;How many VMs total right now?&lt;br style=&quot;font-size: 10px;&quot;&gt;How man proposed down the road?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="-4735" y="4740" width="170" height="40" as="geometry"/>
+          <mxGeometry x="-1685" y="4770" width="170" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="TlTubxZpk76HmFt2pTOC-23" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ff0000&quot;&gt;Where are all these?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="3073" y="-1550" width="110" height="20" as="geometry"/>
