@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-05T21:10:46.801Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="CHZxQD2ViZ-zPrUK61I2" version="12.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-02-05T21:13:02.905Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="QC7H_bHOijFcjiNP-x4P" version="12.6.5" type="github">
   <diagram id="RrptMt3UVPA0-fgu4y3d" name="Page-1">
     <mxGraphModel dx="5052" dy="-710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" background="none" math="0" shadow="1">
       <root>
@@ -2233,6 +2233,18 @@
           <mxGeometry width="120" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="xRCKPZ_nBlkP6jHoxWsg-195" value="Jenkins" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;" parent="xRCKPZ_nBlkP6jHoxWsg-193" vertex="1">
+          <mxGeometry x="20" y="70" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="b6REMMduvY2Y5Z7x8upq-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-960" y="5520" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="b6REMMduvY2Y5Z7x8upq-2" value="" style="group" vertex="1" connectable="0" parent="b6REMMduvY2Y5Z7x8upq-1">
+          <mxGeometry width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="b6REMMduvY2Y5Z7x8upq-3" value="VM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;fillColor=#d5e8d4;" vertex="1" parent="b6REMMduvY2Y5Z7x8upq-2">
+          <mxGeometry width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="b6REMMduvY2Y5Z7x8upq-4" value="Nagios" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;" vertex="1" parent="b6REMMduvY2Y5Z7x8upq-2">
           <mxGeometry x="20" y="70" width="80" height="40" as="geometry"/>
         </mxCell>
       </root>
