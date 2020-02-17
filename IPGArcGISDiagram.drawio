@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-17T15:59:05.249Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="WbF6kyeGrQtTJBPpSkWP" version="12.7.0" type="github">
+<mxfile host="www.draw.io" modified="2020-02-17T16:17:53.279Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="dfLwmffLW7b6kWtY_YiL" version="12.7.0" type="github">
   <diagram id="RrptMt3UVPA0-fgu4y3d" name="Page-1">
-    <mxGraphModel dx="3183" dy="-1570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" background="none" math="0" shadow="1">
+    <mxGraphModel dx="3878" dy="-1125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -1440,372 +1440,6 @@
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-214" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-929" vertex="1">
           <mxGeometry x="220" y="110" width="80" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-947" value="" style="group" parent="1" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry x="-440" y="7520" width="3290" height="840" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-27" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Lens/172.16.7.x&amp;nbsp;&lt;br style=&quot;font-size: 10px;&quot;&gt;(Note cannot hold PII like the .2)&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=10;dashed=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-947" vertex="1">
-          <mxGeometry width="2760" height="840" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-689" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;.70 Domain&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=15;dashed=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;labelBackgroundColor=none;" parent="IM_9Rua3a0QNbLJxY3Cq-947" vertex="1">
-          <mxGeometry x="2800" width="490" height="840" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-27" value="" style="group;fontSize=10;" parent="IM_9Rua3a0QNbLJxY3Cq-947" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry x="1110" y="-620" width="520" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-32" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 10px&quot;&gt;Dependancies&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Notes&lt;/font&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;How do the dependencies work and what applications are they rooted with?&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-27" vertex="1">
-          <mxGeometry width="520" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-28" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 10px;&quot;&gt;DEPASSTAGE 2.221&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;Staging&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;sapp74.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontSize=10;align=center;fillColor=#e1d5e7;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-27" vertex="1">
-          <mxGeometry x="360" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-29" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 10px;&quot;&gt;DEPAS1 2.191&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;Primary&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;vapp72.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-27" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-30" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 10px;&quot;&gt;DEPAS2 2.192&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;Secondary&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;vdb7.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-27" vertex="1">
-          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-999" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-27" source="IM_9Rua3a0QNbLJxY3Cq-24" target="IM_9Rua3a0QNbLJxY3Cq-25" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-24" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-27" vertex="1">
-          <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1000" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-27" source="IM_9Rua3a0QNbLJxY3Cq-25" target="IM_9Rua3a0QNbLJxY3Cq-26" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-25" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-27" vertex="1">
-          <mxGeometry x="220" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-26" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-27" vertex="1">
-          <mxGeometry x="380" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-682" value="" style="group;" parent="IM_9Rua3a0QNbLJxY3Cq-947" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry x="2600" y="320" width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-683" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-682" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-684" value="&lt;span style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;Staging Registration Server&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Tomcat server for Staging Registration. Provisioned by Adam Dodd 20190626. Provisioned by Ansible on 2019-06-26.&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-683" vertex="1">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-685" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;S-IPG-REG01 7.6&lt;br&gt;&lt;/font&gt;&lt;br&gt;Primary&lt;br&gt;sdb54.vmware.local&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontSize=10;align=center;fillColor=#e1d5e7;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-683" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-686" value="&lt;font color=&quot;#3333ff&quot;&gt;S-IPG-REG01 70.6&lt;br&gt;&lt;/font&gt;&lt;br&gt;Secondary&lt;br&gt;sapp84.vmware.local" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontSize=10;align=center;fillColor=#e1d5e7;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-683" vertex="1">
-          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-687" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-683" vertex="1">
-          <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-688" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-683" vertex="1">
-          <mxGeometry x="220" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-787" value="" style="group;fontSize=10;" parent="IM_9Rua3a0QNbLJxY3Cq-947" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry x="3040" y="320" width="200" height="240" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-788" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-787" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry width="200" height="240" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-789" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 10px&quot;&gt;Staging PCIIMS DB&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;Oracle Development Server. Allows Nora to test patches before deploying them to the rest of the gateway. Provisioned by Ansible on 2018-10-31.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-788" vertex="1">
-          <mxGeometry width="200" height="240" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-790" value="&lt;font&gt;&lt;font color=&quot;#0000ff&quot;&gt;S-PCIIMSDB 70.37&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;sdb64.vmware.local&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontSize=10;fillColor=#e1d5e7;align=center;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-788" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-791" value="Database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-788" vertex="1">
-          <mxGeometry x="70" y="110" width="60" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-904" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-947" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry x="40" y="280" width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-420" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-904" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-421" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-420" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-422" value="&lt;span style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;Production Registration Server&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Production Registration Server. Houses an Oracle Database, Tomcat, and APEX. Talk to Nora Hussar. | Provisioned by Ansible on 2019-07-01.&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-421" vertex="1">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-423" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;P-IPG-REG01-A 7.4&lt;br&gt;&lt;/font&gt;&lt;br&gt;Primary&lt;br&gt;vapp102.vmware.local&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-421" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-424" value="&lt;font color=&quot;#3333ff&quot;&gt;P-IPG-REG01-B 7.5&lt;br&gt;&lt;/font&gt;&lt;br&gt;Secondary&lt;br&gt;vapp7.vmware.local" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-421" vertex="1">
-          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1001" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-421" source="IM_9Rua3a0QNbLJxY3Cq-425" target="IM_9Rua3a0QNbLJxY3Cq-426" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-425" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-421" vertex="1">
-          <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-426" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-421" vertex="1">
-          <mxGeometry x="220" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-921" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-947" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry x="598.71" y="40" width="840" height="760" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-330" value="&lt;font color=&quot;#3333ff&quot;&gt;CFATS&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;SCFATS/o13650 is the executive order&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=10;fontColor=#000000;align=left;fillColor=none;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-921" vertex="1">
-          <mxGeometry width="840" height="760" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-916" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-921" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry x="440" y="280" width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-324" value="" style="group;fontSize=10;" parent="IM_9Rua3a0QNbLJxY3Cq-916" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-325" value="CFATS Web Server&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;CFATS Production Web Server. Talk to Mike Overton or Bryce Matheson. | Provisioned by Ansible on 2019-07-09.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-324" vertex="1">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-326" value="&lt;font color=&quot;#3333ff&quot;&gt;P-CFAT-WEB01-A 7.50&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;Primary&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;vapp82.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-324" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-327" value="&lt;font color=&quot;#3333ff&quot;&gt;P-CFAT-WEB01-B 7.51&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;Secondary&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;vapp11.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-324" vertex="1">
-          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1006" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-324" source="IM_9Rua3a0QNbLJxY3Cq-328" target="IM_9Rua3a0QNbLJxY3Cq-329" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-328" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-324" vertex="1">
-          <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-329" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-324" vertex="1">
-          <mxGeometry x="220" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-918" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-921" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry x="40" y="280" width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-347" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-918" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-319" value="CFATS Database&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;Production CFATS Oracle Database. Talk to Nora Hussar or Tom Nagle. | Provisioned by Ansible on 2019-07-23.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-347" vertex="1">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-320" value="&lt;font color=&quot;#3333ff&quot;&gt;P-CFAT-ORAC01-A 7.22&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;Primary&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;vapp72.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-347" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-321" value="&lt;font color=&quot;#3333ff&quot;&gt;P-CFAT-ORAC01-B 7.26&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;Secondary&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;vapp8.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-347" vertex="1">
-          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1003" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-347" source="IM_9Rua3a0QNbLJxY3Cq-337" target="IM_9Rua3a0QNbLJxY3Cq-338" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-337" value="Database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=10;labelBackgroundColor=none;fillColor=#ffffff;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-347" vertex="1">
-          <mxGeometry x="70" y="110" width="60" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-338" value="Database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=10;labelBackgroundColor=none;fillColor=#ffffff;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-347" vertex="1">
-          <mxGeometry x="230" y="110" width="60" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-919" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-921" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry x="40" y="40" width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-306" value="" style="group;fontSize=10;" parent="IM_9Rua3a0QNbLJxY3Cq-919" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-307" value="CFATS Authorization&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;AD LDS Instance for CFATS. Talk to Mike Overton or Bryce Matheson. | Provisioned by Ansible on 2019-07-24.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-306" vertex="1">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-308" value="&lt;font color=&quot;#3333ff&quot;&gt;P-CFAT-AUTH01-A 7.24&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Primary&lt;br&gt;vapp72.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-306" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-309" value="&lt;font color=&quot;#3333ff&quot;&gt;P-CFAT-AUTH01-B 7.28&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;Secondary&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;vapp42.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-306" vertex="1">
-          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1002" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-306" source="IM_9Rua3a0QNbLJxY3Cq-310" target="IM_9Rua3a0QNbLJxY3Cq-311" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-310" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-306" vertex="1">
-          <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-311" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-306" vertex="1">
-          <mxGeometry x="220" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-920" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-921" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry x="440" y="40" width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-917" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-920" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-312" value="" style="group;fontSize=10;" parent="IM_9Rua3a0QNbLJxY3Cq-917" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-313" value="CFATS GIS&lt;br&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;CFATS GIS Server. Talk to Mike Overton. | Provisioned by Ansible on 2019-07-23.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-312" vertex="1">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-314" value="&lt;font color=&quot;#3333ff&quot;&gt;P-CFAT-GIS01-A 7.54&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;Primary&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;vapp62.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-312" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-315" value="&lt;font color=&quot;#3333ff&quot;&gt;P-CFAT-GIS01-B 7.55&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;Secondary&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;vdb7.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-312" vertex="1">
-          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1005" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-312" source="IM_9Rua3a0QNbLJxY3Cq-316" target="IM_9Rua3a0QNbLJxY3Cq-317" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-316" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-312" vertex="1">
-          <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-317" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-312" vertex="1">
-          <mxGeometry x="220" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-923" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-947" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry x="1480" y="40" width="1080" height="760" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-522" value="&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;labelBackgroundColor=none;" parent="IM_9Rua3a0QNbLJxY3Cq-923" vertex="1">
-          <mxGeometry width="1080" height="760" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-793" value="" style="group;" parent="IM_9Rua3a0QNbLJxY3Cq-923" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry x="840" y="40" width="200" height="240" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-794" value="" style="group;fontSize=10;" parent="IM_9Rua3a0QNbLJxY3Cq-793" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry width="200" height="240" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-795" value="&lt;font color=&quot;#3333ff&quot;&gt;Staging PCIMS Authentication&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;AD LDS Authentication Server for PCIIMS. Talk to Tim Klett or Bryce Matheson. Provisioned by Ansible on 2018-07-26.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;labelBackgroundColor=none;" parent="IM_9Rua3a0QNbLJxY3Cq-794" vertex="1">
-          <mxGeometry width="200" height="240" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-796" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;S-PCIM-AUTH01 7.12&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;sdb54.vmware.local&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontSize=10;align=center;fillColor=#e1d5e7;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-794" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-797" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-794" vertex="1">
-          <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-350" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-923" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry x="40" y="40" width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-351" value="&lt;span style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS Authentication&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-350" vertex="1">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-352" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS1_AD 7.36&lt;br&gt;&lt;/font&gt;&lt;br&gt;Primary&lt;br&gt;vapp102.vmware.local&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-350" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-353" value="&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS2_AD 7.42&lt;br&gt;&lt;/font&gt;&lt;br&gt;Secondary&lt;br&gt;vdb5.vmware.local" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-350" vertex="1">
-          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1007" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-350" source="IM_9Rua3a0QNbLJxY3Cq-354" target="IM_9Rua3a0QNbLJxY3Cq-355" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-354" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-350" vertex="1">
-          <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-355" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-350" vertex="1">
-          <mxGeometry x="220" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-369" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-923" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry x="40" y="520" width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-363" value="&lt;span style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS File Server&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-369" vertex="1">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-364" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS1_FS 7.38&lt;br&gt;&lt;/font&gt;&lt;br&gt;Primary&lt;br&gt;vapp102.vmware.local&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-369" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-365" value="&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS2_FS 7.44&lt;br&gt;&lt;/font&gt;&lt;br&gt;Secondary&lt;br&gt;vdb5.vmware.local" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-369" vertex="1">
-          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-361" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-369" vertex="1">
-          <mxGeometry x="220" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1009" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-369" source="IM_9Rua3a0QNbLJxY3Cq-360" target="IM_9Rua3a0QNbLJxY3Cq-361" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-360" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-369" vertex="1">
-          <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-370" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-923" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry x="40" y="275" width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-357" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS Database&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-370" vertex="1">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-358" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS1_DB 7.37&lt;br&gt;&lt;/font&gt;&lt;br&gt;Primary&lt;br&gt;vdb5.vmware.local&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-370" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-359" value="&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS2_DB 7.43&lt;br&gt;&lt;/font&gt;&lt;br&gt;Secondary&lt;br&gt;vapp7.vmware.local" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-370" vertex="1">
-          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1008" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-370" source="IM_9Rua3a0QNbLJxY3Cq-366" target="IM_9Rua3a0QNbLJxY3Cq-367" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-366" value="Database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=10;labelBackgroundColor=none;fillColor=#ffffff;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-370" vertex="1">
-          <mxGeometry x="70" y="110" width="60" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-367" value="Database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=10;labelBackgroundColor=none;fillColor=#ffffff;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-370" vertex="1">
-          <mxGeometry x="230" y="110" width="60" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-525" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-923" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry x="440" y="40" width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-526" value="&lt;span style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS Authorization&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;PCIIMS Production AD LDS Server. Provisioned by Ansible on 2019-06-18.&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-525" vertex="1">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-527" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;P-PCIM-AUTH01-A 7.17&lt;br&gt;&lt;/font&gt;&lt;br&gt;Primary&lt;br&gt;vapp72.vmware.local&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-525" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-528" value="&lt;font color=&quot;#3333ff&quot;&gt;P-PCIM-AUTH01-B 7.18&lt;br&gt;&lt;/font&gt;&lt;br&gt;Secondary&lt;br&gt;vapp42.vmware.local" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-525" vertex="1">
-          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1010" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-525" source="IM_9Rua3a0QNbLJxY3Cq-529" target="IM_9Rua3a0QNbLJxY3Cq-530" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-529" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-525" vertex="1">
-          <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-530" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-525" vertex="1">
-          <mxGeometry x="220" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-543" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-923" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry x="440" y="280" width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-544" value="&lt;span style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS Primary Web Server UM / MS / HD&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Primary PCIIMS Web Server, which houses the UM, MS, and HD apps. 1st and 2nd Nodes. Provisioned by Ansible on 2019-06-18.&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-543" vertex="1">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-545" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;P-PCIM-WEB01-A 7.15&lt;br&gt;&lt;/font&gt;&lt;br&gt;First Node&lt;br&gt;vapp62.vmware.local&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-543" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-546" value="&lt;font color=&quot;#3333ff&quot;&gt;P-PCIM-WEB01-B 7.16&lt;br&gt;&lt;/font&gt;&lt;br&gt;Second Node&lt;br&gt;vdb7.vmware.local" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-543" vertex="1">
-          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-547" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-543" vertex="1">
-          <mxGeometry x="220" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1011" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-543" source="IM_9Rua3a0QNbLJxY3Cq-548" target="IM_9Rua3a0QNbLJxY3Cq-547" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-548" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-543" vertex="1">
-          <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-776" value="" style="group;" parent="IM_9Rua3a0QNbLJxY3Cq-923" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry x="440" y="520" width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-777" value="&lt;span style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;Staging PCIIMS Primary Web Server UM / MS / HD&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Staging PCIIMS Web Server. Contains UM, HD, and MS apps. Apache and Tomcat. Talk to Bryce Matheson or Leo Monfredo. | Provisioned by Ansible on 2019-07-25.&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-776" vertex="1">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-778" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;S-PCIM-WEB01-A 7.30&lt;br&gt;&lt;/font&gt;&lt;br&gt;First Node&lt;br&gt;sdb64.vmware.local&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontSize=10;align=center;fillColor=#e1d5e7;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-776" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-779" value="&lt;font color=&quot;#3333ff&quot;&gt;S-PCIM-WEB01-B 7.31&lt;br&gt;&lt;/font&gt;&lt;br&gt;Second Node&lt;br&gt;sdb44.vmware.local" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontSize=10;align=center;fillColor=#e1d5e7;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-776" vertex="1">
-          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-780" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-776" vertex="1">
-          <mxGeometry x="220" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1012" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-776" source="IM_9Rua3a0QNbLJxY3Cq-781" target="IM_9Rua3a0QNbLJxY3Cq-780" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-781" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-776" vertex="1">
-          <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1092" value="&lt;font color=&quot;#3333ff&quot;&gt;7.2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;labelBackgroundColor=none;" parent="IM_9Rua3a0QNbLJxY3Cq-947" vertex="1">
-          <mxGeometry x="290" y="540" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1093" value="Pulse" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-947" vertex="1">
-          <mxGeometry x="310" y="610" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1094" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;7.1&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;labelBackgroundColor=none;" parent="IM_9Rua3a0QNbLJxY3Cq-947" vertex="1">
-          <mxGeometry x="90" y="550" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1095" value="Pulse" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-947" vertex="1">
-          <mxGeometry x="110" y="620" width="80" height="40" as="geometry"/>
-        </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-950" value="" style="group" parent="1" vertex="1" connectable="0" treatAsSingle="0">
           <mxGeometry x="2160" y="4840" width="600" height="1000" as="geometry"/>
         </mxCell>
@@ -2091,114 +1725,6 @@
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-845" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-969" vertex="1">
           <mxGeometry x="460" y="270.2399999999998" width="80" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-961" value="" style="group" parent="1" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry x="-1640" y="6800" width="1040" height="560" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-392" value="&lt;span style=&quot;color: rgb(51 , 51 , 255) ; font-size: 10px&quot;&gt;DMZ Dbs .128 (No PII) (Databases)&lt;/span&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=15;dashed=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;labelBackgroundColor=none;" parent="IM_9Rua3a0QNbLJxY3Cq-961" vertex="1">
-          <mxGeometry width="1040" height="560" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-941" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-961" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry x="480" y="40" width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-879" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-941" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-537" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-879" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-538" value="&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS E-Submissions Database&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;Oracle database used for the E-Submissions PCIIMS app. All other PCIIMS data is stored in the main IPG DB. Talk to Nora Hussar or Tom Nagle for more questions. Provisioned by Ansible on 2019-03-05.&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-537" vertex="1">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-539" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;P-PCIM-ORAC01-A 128.13&lt;br&gt;&lt;/font&gt;&lt;br&gt;Primary&lt;br&gt;vapp102.vmware.local&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-537" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-540" value="&lt;font color=&quot;#3333ff&quot;&gt;P-PCIM-ORAC01-B 128.14&lt;br&gt;&lt;/font&gt;&lt;br&gt;Secondary&lt;br&gt;vapp7.vmware.local" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-537" vertex="1">
-          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-991" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-537" source="IM_9Rua3a0QNbLJxY3Cq-541" target="IM_9Rua3a0QNbLJxY3Cq-542" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-541" value="Database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=10;labelBackgroundColor=none;fillColor=#ffffff;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-537" vertex="1">
-          <mxGeometry x="70" y="110" width="60" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-542" value="Database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=10;labelBackgroundColor=none;fillColor=#ffffff;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-537" vertex="1">
-          <mxGeometry x="230" y="110" width="60" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-942" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-961" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry x="40" y="280" width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-880" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-942" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-393" value="" style="group;fontSize=10;" parent="IM_9Rua3a0QNbLJxY3Cq-880" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-394" value="&lt;font color=&quot;#3333ff&quot;&gt;Admin Domain Controllers&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;&lt;font color=&quot;#00cc00&quot;&gt;Domain controllers for the DMZ domain. Provisioned by Ansible on 2018-12-18.&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-393" vertex="1">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-395" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;P-IPG-DMZDC01-A 128.1&lt;/font&gt;&lt;br&gt;&lt;br&gt;First Controller&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;vapp102.vmware.local&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-393" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-396" value="&lt;font color=&quot;#3333ff&quot;&gt;P-IPG-DMZDC01-B 128.2&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;Second Controller&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;vdb7.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-393" vertex="1">
-          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-990" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-393" source="IM_9Rua3a0QNbLJxY3Cq-397" target="IM_9Rua3a0QNbLJxY3Cq-398" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-397" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-393" vertex="1">
-          <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-398" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-393" vertex="1">
-          <mxGeometry x="220" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-943" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-961" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry x="40" y="40" width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-881" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-943" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-581" value="" style="group;fontSize=10;" parent="IM_9Rua3a0QNbLJxY3Cq-881" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-582" value="&lt;font color=&quot;#3333ff&quot;&gt;RSA DMZ&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;&lt;br&gt;LENSDMZ Primary RSA server. RISC IT&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-581" vertex="1">
-          <mxGeometry width="360" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-583" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;RSADMZ1 128.5&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Primary&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-581" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-584" value="&lt;font color=&quot;#3333ff&quot;&gt;RSADMZ2 128.6&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;Secondary" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-581" vertex="1">
-          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-989" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-581" source="IM_9Rua3a0QNbLJxY3Cq-585" target="IM_9Rua3a0QNbLJxY3Cq-586" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-585" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-581" vertex="1">
-          <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-586" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-581" vertex="1">
-          <mxGeometry x="220" y="110" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-944" value="" style="group;" parent="IM_9Rua3a0QNbLJxY3Cq-961" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry x="480" y="280" width="200" height="240" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-878" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-944" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry width="200" height="240" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-801" value="" style="group;fontSize=10;" parent="IM_9Rua3a0QNbLJxY3Cq-878" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry width="200" height="240" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-802" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-801" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry width="200" height="240" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-803" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 10px&quot;&gt;Staging PCIMS DB&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;Oracle database used for the E-Submissions PCIIMS staging app (and only ESubs app). All other PCIIMS apps point to SCANSTAGE. Talk to Nora Hussar or Bryce Matheson for more information. Provisioned by Ansible on 2018-09-04.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-802" vertex="1">
-          <mxGeometry width="200" height="240" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-804" value="&lt;font&gt;&lt;font color=&quot;#0000ff&quot;&gt;S-PCIM-ORAC01 128.20&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;sdb44.vmware.local&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontSize=10;fillColor=#e1d5e7;align=center;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-802" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-805" value="Database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-802" vertex="1">
-          <mxGeometry x="70" y="110" width="60" height="40" as="geometry"/>
-        </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1052" value="&lt;a href=&quot;https://variqcorp.sharepoint.com/sites/IPGateway/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x012000EC999D19AC3CB64DA1633ED0C365D101&amp;amp;id=%2Fsites%2FIPGateway%2FShared%20Documents%2FGeneral%2F30%20O%26M%2F40%20Systems%2FCISA%20Map%20View%2FSensitive%2FServer%2BNaming%2BConvention%2Epdf&amp;amp;parent=%2Fsites%2FIPGateway%2FShared%20Documents%2FGeneral%2F30%20O%26M%2F40%20Systems%2FCISA%20Map%20View%2FSensitive&quot;&gt;https://variqcorp.sharepoint.com/sites/IPGateway/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x012000EC999D19AC3CB64DA1633ED0C365D101&amp;amp;id=%2Fsites%2FIPGateway%2FShared%20Documents%2FGeneral%2F30%20O%26M%2F40%20Systems%2FCISA%20Map%20View%2FSensitive%2FServer%2BNaming%2BConvention%2Epdf&amp;amp;parent=%2Fsites%2FIPGateway%2FShared%20Documents%2FGeneral%2F30%20O%26M%2F40%20Systems%2FCISA%20Map%20View%2FSensitive&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry x="-1860" y="2270" width="2320" height="20" as="geometry"/>
         </mxCell>
@@ -2361,10 +1887,10 @@
           <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-220" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-216" vertex="1">
-          <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
+          <mxGeometry x="60" y="100" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-221" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-216" vertex="1">
-          <mxGeometry x="220" y="110" width="80" height="40" as="geometry"/>
+          <mxGeometry x="220" y="100" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-869" value="" style="group" parent="u6FpV8aDj4UNGr4Xxb2L-8" vertex="1" connectable="0" treatAsSingle="0">
           <mxGeometry x="680" y="40" width="200.3499999999999" height="680" as="geometry"/>
@@ -2379,7 +1905,7 @@
           <mxGeometry width="120" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-192" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-865" vertex="1">
-          <mxGeometry x="20" y="70" width="80" height="40" as="geometry"/>
+          <mxGeometry x="20" y="60" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-866" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-869" vertex="1" connectable="0" treatAsSingle="0">
           <mxGeometry x="40" y="200" width="120" height="120" as="geometry"/>
@@ -2388,7 +1914,7 @@
           <mxGeometry width="120" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-193" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-866" vertex="1">
-          <mxGeometry x="20" y="70" width="80" height="40" as="geometry"/>
+          <mxGeometry x="20" y="60" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-867" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-869" vertex="1" connectable="0" treatAsSingle="0">
           <mxGeometry x="40" y="360" width="120" height="120" as="geometry"/>
@@ -2397,7 +1923,7 @@
           <mxGeometry width="120" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-196" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-867" vertex="1">
-          <mxGeometry x="20" y="70" width="80" height="40" as="geometry"/>
+          <mxGeometry x="20" y="60" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-868" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-869" vertex="1" connectable="0" treatAsSingle="0">
           <mxGeometry x="40.34999999999991" y="520" width="120" height="120" as="geometry"/>
@@ -2406,7 +1932,7 @@
           <mxGeometry width="120" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-197" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-868" vertex="1">
-          <mxGeometry x="20" y="70" width="80" height="40" as="geometry"/>
+          <mxGeometry x="20" y="60" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="u6FpV8aDj4UNGr4Xxb2L-3" value="" style="group" vertex="1" connectable="0" parent="u6FpV8aDj4UNGr4Xxb2L-8">
           <mxGeometry x="440" y="40" width="200" height="201.32999999999993" as="geometry"/>
@@ -2545,6 +2071,468 @@
         </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1096" value="P-PCIM-WEB02-W 127.75" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;labelBackgroundColor=none;strokeColor=#000000;fillColor=none;gradientColor=none;fontSize=10;fontColor=#3333FF;align=center;" parent="u6FpV8aDj4UNGr4Xxb2L-13" vertex="1">
           <mxGeometry x="80" y="20" width="280" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="u6FpV8aDj4UNGr4Xxb2L-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1480" y="6040" width="920" height="520" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-392" value="&lt;span style=&quot;color: rgb(51 , 51 , 255) ; font-size: 10px&quot;&gt;DMZ Dbs .128 (No PII) (Databases)&lt;/span&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=15;dashed=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;labelBackgroundColor=none;" parent="u6FpV8aDj4UNGr4Xxb2L-17" vertex="1">
+          <mxGeometry width="920" height="520" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-941" value="" style="group" parent="u6FpV8aDj4UNGr4Xxb2L-17" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry x="520" y="40" width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-879" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-941" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-537" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-879" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-538" value="&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS E-Submissions Database&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;Oracle database used for the E-Submissions PCIIMS app. All other PCIIMS data is stored in the main IPG DB. Talk to Nora Hussar or Tom Nagle for more questions. Provisioned by Ansible on 2019-03-05.&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-537" vertex="1">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-539" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;P-PCIM-ORAC01-A 128.13&lt;br&gt;&lt;/font&gt;&lt;br&gt;Primary&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-537" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-540" value="&lt;font color=&quot;#3333ff&quot;&gt;P-PCIM-ORAC01-B 128.14&lt;br&gt;&lt;/font&gt;&lt;br&gt;Secondary" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-537" vertex="1">
+          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-991" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-537" source="IM_9Rua3a0QNbLJxY3Cq-541" target="IM_9Rua3a0QNbLJxY3Cq-542" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-541" value="Database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=10;labelBackgroundColor=none;fillColor=#ffffff;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-537" vertex="1">
+          <mxGeometry x="70" y="100" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-542" value="Database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=10;labelBackgroundColor=none;fillColor=#ffffff;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-537" vertex="1">
+          <mxGeometry x="230" y="100" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-942" value="" style="group" parent="u6FpV8aDj4UNGr4Xxb2L-17" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry x="40" y="280" width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-880" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-942" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-393" value="" style="group;fontSize=10;" parent="IM_9Rua3a0QNbLJxY3Cq-880" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-394" value="&lt;font color=&quot;#3333ff&quot;&gt;Admin Domain Controllers&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;&lt;font color=&quot;#00cc00&quot;&gt;Domain controllers for the DMZ domain. Provisioned by Ansible on 2018-12-18.&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-393" vertex="1">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-395" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;P-IPG-DMZDC01-A 128.1&lt;/font&gt;&lt;br&gt;&lt;br&gt;First Controller&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-393" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-396" value="&lt;font color=&quot;#3333ff&quot;&gt;P-IPG-DMZDC01-B 128.2&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;Second Controller" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-393" vertex="1">
+          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-990" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-393" source="IM_9Rua3a0QNbLJxY3Cq-397" target="IM_9Rua3a0QNbLJxY3Cq-398" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-397" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-393" vertex="1">
+          <mxGeometry x="60" y="100" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-398" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-393" vertex="1">
+          <mxGeometry x="220" y="100" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-943" value="" style="group" parent="u6FpV8aDj4UNGr4Xxb2L-17" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry x="40" y="40" width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-881" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-943" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-581" value="" style="group;fontSize=10;" parent="IM_9Rua3a0QNbLJxY3Cq-881" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-582" value="&lt;font color=&quot;#3333ff&quot;&gt;RSA DMZ&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;&lt;br&gt;LENSDMZ Primary RSA server. RISC IT&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-581" vertex="1">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-583" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;RSADMZ1 128.5&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Primary&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-581" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-584" value="&lt;font color=&quot;#3333ff&quot;&gt;RSADMZ2 128.6&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;Secondary" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-581" vertex="1">
+          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-989" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-581" source="IM_9Rua3a0QNbLJxY3Cq-585" target="IM_9Rua3a0QNbLJxY3Cq-586" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-585" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-581" vertex="1">
+          <mxGeometry x="60" y="100" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-586" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-581" vertex="1">
+          <mxGeometry x="220" y="100" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="u6FpV8aDj4UNGr4Xxb2L-16" value="" style="group" vertex="1" connectable="0" parent="u6FpV8aDj4UNGr4Xxb2L-17">
+          <mxGeometry x="520" y="280" width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-803" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 10px&quot;&gt;Staging PCIMS DB&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;Oracle database used for the E-Submissions PCIIMS staging app (and only ESubs app). All other PCIIMS apps point to SCANSTAGE. Talk to Nora Hussar or Bryce Matheson for more information. Provisioned by Ansible on 2018-09-04.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="u6FpV8aDj4UNGr4Xxb2L-16" vertex="1">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-804" value="&lt;font&gt;&lt;font color=&quot;#0000ff&quot;&gt;S-PCIM-ORAC01 128.20&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontSize=10;fillColor=#e1d5e7;align=center;verticalAlign=top;" parent="u6FpV8aDj4UNGr4Xxb2L-16" vertex="1">
+          <mxGeometry x="120" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-805" value="Database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=10;align=center;" parent="u6FpV8aDj4UNGr4Xxb2L-16" vertex="1">
+          <mxGeometry x="150" y="100" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-27" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Lens/172.16.7.x&amp;nbsp;&lt;br style=&quot;font-size: 10px;&quot;&gt;(Note cannot hold PII like the .2)&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=10;dashed=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;fontColor=#3333FF;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="7520" width="2760" height="840" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-689" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;.70 Domain&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=15;dashed=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2360" y="7520" width="490" height="840" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-27" value="" style="group;fontSize=10;" parent="1" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry x="670" y="6900" width="520" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-32" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 10px&quot;&gt;Dependancies&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Notes&lt;/font&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;How do the dependencies work and what applications are they rooted with?&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-27" vertex="1">
+          <mxGeometry width="520" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-28" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 10px;&quot;&gt;DEPASSTAGE 2.221&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;Staging&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;sapp74.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontSize=10;align=center;fillColor=#e1d5e7;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-27" vertex="1">
+          <mxGeometry x="360" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-29" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 10px;&quot;&gt;DEPAS1 2.191&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;Primary&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;vapp72.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-27" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZHYYQ9ZwdNW2HlEYeT_7-30" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 10px;&quot;&gt;DEPAS2 2.192&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;Secondary&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;vdb7.vmware.local&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-27" vertex="1">
+          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-999" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-27" source="IM_9Rua3a0QNbLJxY3Cq-24" target="IM_9Rua3a0QNbLJxY3Cq-25" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-24" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-27" vertex="1">
+          <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1000" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-27" source="IM_9Rua3a0QNbLJxY3Cq-25" target="IM_9Rua3a0QNbLJxY3Cq-26" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-25" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-27" vertex="1">
+          <mxGeometry x="220" y="110" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-26" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-27" vertex="1">
+          <mxGeometry x="380" y="110" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-682" value="" style="group;" parent="1" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry x="2160" y="7840" width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-683" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-682" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-684" value="&lt;span style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;Staging Registration Server&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Tomcat server for Staging Registration. Provisioned by Adam Dodd 20190626. Provisioned by Ansible on 2019-06-26.&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-683" vertex="1">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-685" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;S-IPG-REG01 7.6&lt;br&gt;&lt;/font&gt;&lt;br&gt;Primary&lt;br&gt;sdb54.vmware.local&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontSize=10;align=center;fillColor=#e1d5e7;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-683" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-686" value="&lt;font color=&quot;#3333ff&quot;&gt;S-IPG-REG01 70.6&lt;br&gt;&lt;/font&gt;&lt;br&gt;Secondary&lt;br&gt;sapp84.vmware.local" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontSize=10;align=center;fillColor=#e1d5e7;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-683" vertex="1">
+          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-687" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-683" vertex="1">
+          <mxGeometry x="60" y="110" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-688" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-683" vertex="1">
+          <mxGeometry x="220" y="110" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-787" value="" style="group;fontSize=10;" parent="1" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry x="2600" y="7840" width="200" height="240" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-788" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-787" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry width="200" height="240" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-789" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 10px&quot;&gt;Staging PCIIMS DB&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;Oracle Development Server. Allows Nora to test patches before deploying them to the rest of the gateway. Provisioned by Ansible on 2018-10-31.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-788" vertex="1">
+          <mxGeometry width="200" height="240" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-790" value="&lt;font&gt;&lt;font color=&quot;#0000ff&quot;&gt;S-PCIIMSDB 70.37&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;sdb64.vmware.local&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontSize=10;fillColor=#e1d5e7;align=center;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-788" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-791" value="Database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-788" vertex="1">
+          <mxGeometry x="70" y="110" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-904" value="" style="group" parent="1" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry x="-400" y="7600" width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-420" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-904" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-421" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-420" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-422" value="&lt;span style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;Production Registration Server&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Production Registration Server. Houses an Oracle Database, Tomcat, and APEX. Talk to Nora Hussar. | Provisioned by Ansible on 2019-07-01.&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-421" vertex="1">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-423" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;P-IPG-REG01-A 7.4&lt;br&gt;&lt;/font&gt;&lt;br&gt;Primary&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-421" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-424" value="&lt;font color=&quot;#3333ff&quot;&gt;P-IPG-REG01-B 7.5&lt;br&gt;&lt;/font&gt;&lt;br&gt;Secondary" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-421" vertex="1">
+          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1001" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-421" source="IM_9Rua3a0QNbLJxY3Cq-425" target="IM_9Rua3a0QNbLJxY3Cq-426" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-425" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-421" vertex="1">
+          <mxGeometry x="60" y="100" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-426" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-421" vertex="1">
+          <mxGeometry x="220" y="100" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="u6FpV8aDj4UNGr4Xxb2L-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-400" y="7840" width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="u6FpV8aDj4UNGr4Xxb2L-18" value="&lt;font color=&quot;#3333ff&quot;&gt;Pulse&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Hard Pulse Devices&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" vertex="1" parent="u6FpV8aDj4UNGr4Xxb2L-23">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1092" value="&lt;font color=&quot;#3333ff&quot;&gt;7.2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;labelBackgroundColor=none;" parent="u6FpV8aDj4UNGr4Xxb2L-23" vertex="1">
+          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1094" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;7.1&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;labelBackgroundColor=none;" parent="u6FpV8aDj4UNGr4Xxb2L-23" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1095" value="Proxy" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" parent="u6FpV8aDj4UNGr4Xxb2L-23" vertex="1">
+          <mxGeometry x="60" y="100" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1093" value="Pulse" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" parent="u6FpV8aDj4UNGr4Xxb2L-23" vertex="1">
+          <mxGeometry x="220" y="100" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="u6FpV8aDj4UNGr4Xxb2L-24" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-0.3299999999999983" y="7560" width="840" height="520" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-330" value="&lt;font color=&quot;#3333ff&quot;&gt;CFATS&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;SCFATS/o13650 is the executive order&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=10;fontColor=#000000;align=left;fillColor=none;verticalAlign=top;" parent="u6FpV8aDj4UNGr4Xxb2L-24" vertex="1">
+          <mxGeometry width="840" height="520" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-916" value="" style="group" parent="u6FpV8aDj4UNGr4Xxb2L-24" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry x="440" y="280" width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-324" value="" style="group;fontSize=10;" parent="IM_9Rua3a0QNbLJxY3Cq-916" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-325" value="CFATS Web Server&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;CFATS Production Web Server. Talk to Mike Overton or Bryce Matheson. | Provisioned by Ansible on 2019-07-09.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-324" vertex="1">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-326" value="&lt;font color=&quot;#3333ff&quot;&gt;P-CFAT-WEB01-A 7.50&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;Primary" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-324" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-327" value="&lt;font color=&quot;#3333ff&quot;&gt;P-CFAT-WEB01-B 7.51&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;Secondary" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-324" vertex="1">
+          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1006" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-324" source="IM_9Rua3a0QNbLJxY3Cq-328" target="IM_9Rua3a0QNbLJxY3Cq-329" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-328" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-324" vertex="1">
+          <mxGeometry x="60" y="100" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-329" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-324" vertex="1">
+          <mxGeometry x="220" y="100" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-918" value="" style="group" parent="u6FpV8aDj4UNGr4Xxb2L-24" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry x="40.00000000000003" y="280" width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-347" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-918" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-319" value="CFATS Database&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;Production CFATS Oracle Database. Talk to Nora Hussar or Tom Nagle. | Provisioned by Ansible on 2019-07-23.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-347" vertex="1">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-320" value="&lt;font color=&quot;#3333ff&quot;&gt;P-CFAT-ORAC01-A 7.22&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;Primary" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-347" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-321" value="&lt;font color=&quot;#3333ff&quot;&gt;P-CFAT-ORAC01-B 7.26&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;Secondary" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-347" vertex="1">
+          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1003" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-347" source="IM_9Rua3a0QNbLJxY3Cq-337" target="IM_9Rua3a0QNbLJxY3Cq-338" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-337" value="Database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=10;labelBackgroundColor=none;fillColor=#ffffff;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-347" vertex="1">
+          <mxGeometry x="70" y="100" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-338" value="Database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=10;labelBackgroundColor=none;fillColor=#ffffff;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-347" vertex="1">
+          <mxGeometry x="230" y="100" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-919" value="" style="group" parent="u6FpV8aDj4UNGr4Xxb2L-24" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry x="40.00000000000003" y="40" width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-306" value="" style="group;fontSize=10;" parent="IM_9Rua3a0QNbLJxY3Cq-919" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-307" value="CFATS Authorization&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;AD LDS Instance for CFATS. Talk to Mike Overton or Bryce Matheson. | Provisioned by Ansible on 2019-07-24.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-306" vertex="1">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-308" value="&lt;font color=&quot;#3333ff&quot;&gt;P-CFAT-AUTH01-A 7.24&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Primary&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-306" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-309" value="&lt;font color=&quot;#3333ff&quot;&gt;P-CFAT-AUTH01-B 7.28&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;Secondary" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-306" vertex="1">
+          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1002" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-306" source="IM_9Rua3a0QNbLJxY3Cq-310" target="IM_9Rua3a0QNbLJxY3Cq-311" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-310" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-306" vertex="1">
+          <mxGeometry x="60" y="100" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-311" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-306" vertex="1">
+          <mxGeometry x="220" y="100" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-920" value="" style="group" parent="u6FpV8aDj4UNGr4Xxb2L-24" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry x="440" y="40" width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-917" value="" style="group" parent="IM_9Rua3a0QNbLJxY3Cq-920" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-312" value="" style="group;fontSize=10;" parent="IM_9Rua3a0QNbLJxY3Cq-917" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-313" value="CFATS GIS&lt;br&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#00cc00&quot;&gt;CFATS GIS Server. Talk to Mike Overton. | Provisioned by Ansible on 2019-07-23.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-312" vertex="1">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-314" value="&lt;font color=&quot;#3333ff&quot;&gt;P-CFAT-GIS01-A 7.54&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;Primary" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-312" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-315" value="&lt;font color=&quot;#3333ff&quot;&gt;P-CFAT-GIS01-B 7.55&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;Secondary" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-312" vertex="1">
+          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1005" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-312" source="IM_9Rua3a0QNbLJxY3Cq-316" target="IM_9Rua3a0QNbLJxY3Cq-317" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-316" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-312" vertex="1">
+          <mxGeometry x="60" y="100" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-317" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-312" vertex="1">
+          <mxGeometry x="220" y="100" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-522" value="&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="80" y="8798.67" width="1480" height="521.33" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-350" value="" style="group" parent="1" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry x="360" y="8840" width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-351" value="&lt;span style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS Authentication&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-350" vertex="1">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-352" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS1_AD 7.36&lt;br&gt;&lt;/font&gt;&lt;br&gt;Primary&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-350" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-353" value="&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS2_AD 7.42&lt;br&gt;&lt;/font&gt;&lt;br&gt;Secondary" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-350" vertex="1">
+          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1007" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-350" source="IM_9Rua3a0QNbLJxY3Cq-354" target="IM_9Rua3a0QNbLJxY3Cq-355" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-354" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-350" vertex="1">
+          <mxGeometry x="60" y="100" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-355" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-350" vertex="1">
+          <mxGeometry x="220" y="100" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-369" value="" style="group" parent="1" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry x="760" y="9080" width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-363" value="&lt;span style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS File Server&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-369" vertex="1">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-364" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS1_FS 7.38&lt;br&gt;&lt;/font&gt;&lt;br&gt;Primary&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-369" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-365" value="&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS2_FS 7.44&lt;br&gt;&lt;/font&gt;&lt;br&gt;Secondary" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-369" vertex="1">
+          <mxGeometry x="201" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-361" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-369" vertex="1">
+          <mxGeometry x="220" y="100" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1009" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-369" source="IM_9Rua3a0QNbLJxY3Cq-360" target="IM_9Rua3a0QNbLJxY3Cq-361" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-360" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-369" vertex="1">
+          <mxGeometry x="60" y="100" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-370" value="" style="group" parent="1" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry x="760" y="8840" width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-357" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS Database&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-370" vertex="1">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-358" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS1_DB 7.37&lt;br&gt;&lt;/font&gt;&lt;br&gt;Primary&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-370" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-359" value="&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS2_DB 7.43&lt;br&gt;&lt;/font&gt;&lt;br&gt;Secondary" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-370" vertex="1">
+          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1008" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-370" source="IM_9Rua3a0QNbLJxY3Cq-366" target="IM_9Rua3a0QNbLJxY3Cq-367" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-366" value="Database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=10;labelBackgroundColor=none;fillColor=#ffffff;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-370" vertex="1">
+          <mxGeometry x="70" y="100" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-367" value="Database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=10;labelBackgroundColor=none;fillColor=#ffffff;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-370" vertex="1">
+          <mxGeometry x="230" y="100" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-525" value="" style="group" parent="1" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry x="360" y="9078.67" width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-526" value="&lt;span style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS Authorization&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;PCIIMS Production AD LDS Server. Provisioned by Ansible on 2019-06-18.&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-525" vertex="1">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-527" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;P-PCIM-AUTH01-A 7.17&lt;br&gt;&lt;/font&gt;&lt;br&gt;Primary&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-525" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-528" value="&lt;font color=&quot;#3333ff&quot;&gt;P-PCIM-AUTH01-B 7.18&lt;br&gt;&lt;/font&gt;&lt;br&gt;Secondary" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-525" vertex="1">
+          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1010" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-525" source="IM_9Rua3a0QNbLJxY3Cq-529" target="IM_9Rua3a0QNbLJxY3Cq-530" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-529" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-525" vertex="1">
+          <mxGeometry x="60" y="100" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-530" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-525" vertex="1">
+          <mxGeometry x="220" y="100" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-543" value="" style="group" parent="1" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry x="1160" y="8840" width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-544" value="&lt;span style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;PCIIMS Primary Web Server UM / MS / HD&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Primary PCIIMS Web Server, which houses the UM, MS, and HD apps. 1st and 2nd Nodes. Provisioned by Ansible on 2019-06-18.&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-543" vertex="1">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-545" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;P-PCIM-WEB01-A 7.15&lt;br&gt;&lt;/font&gt;&lt;br&gt;First Node&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-543" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-546" value="&lt;font color=&quot;#3333ff&quot;&gt;P-PCIM-WEB01-B 7.16&lt;br&gt;&lt;/font&gt;&lt;br&gt;Second Node" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-543" vertex="1">
+          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-547" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-543" vertex="1">
+          <mxGeometry x="220" y="100" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1011" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-543" source="IM_9Rua3a0QNbLJxY3Cq-548" target="IM_9Rua3a0QNbLJxY3Cq-547" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-548" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-543" vertex="1">
+          <mxGeometry x="60" y="100" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-776" value="" style="group;" parent="1" vertex="1" connectable="0" treatAsSingle="0">
+          <mxGeometry x="1160" y="9080" width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-777" value="&lt;span style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;Staging PCIIMS Primary Web Server UM / MS / HD&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Staging PCIIMS Web Server. Contains UM, HD, and MS apps. Apache and Tomcat. Talk to Bryce Matheson or Leo Monfredo. | Provisioned by Ansible on 2019-07-25.&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;" parent="IM_9Rua3a0QNbLJxY3Cq-776" vertex="1">
+          <mxGeometry width="360" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-778" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;S-PCIM-WEB01-A 7.30&lt;br&gt;&lt;/font&gt;&lt;br&gt;First Node&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontSize=10;align=center;fillColor=#e1d5e7;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-776" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-779" value="&lt;font color=&quot;#3333ff&quot;&gt;S-PCIM-WEB01-B 7.31&lt;br&gt;&lt;/font&gt;&lt;br&gt;Second Node" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontSize=10;align=center;fillColor=#e1d5e7;verticalAlign=top;" parent="IM_9Rua3a0QNbLJxY3Cq-776" vertex="1">
+          <mxGeometry x="200" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-780" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-776" vertex="1">
+          <mxGeometry x="220" y="100" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1012" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="IM_9Rua3a0QNbLJxY3Cq-776" source="IM_9Rua3a0QNbLJxY3Cq-781" target="IM_9Rua3a0QNbLJxY3Cq-780" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-781" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-776" vertex="1">
+          <mxGeometry x="60" y="100" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="u6FpV8aDj4UNGr4Xxb2L-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="8840" width="200" height="201.32999999999993" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-795" value="&lt;font color=&quot;#3333ff&quot;&gt;Staging PCIMS Authentication&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;br&gt;AD LDS Authentication Server for PCIIMS. Talk to Tim Klett or Bryce Matheson. Provisioned by Ansible on 2018-07-26.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fillColor=none;align=left;verticalAlign=top;horizontal=1;fontColor=#FF0000;labelBackgroundColor=none;" parent="u6FpV8aDj4UNGr4Xxb2L-26" vertex="1">
+          <mxGeometry width="200" height="201.33" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-796" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;S-PCIM-AUTH01 7.12&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontSize=10;align=center;fillColor=#e1d5e7;verticalAlign=top;" parent="u6FpV8aDj4UNGr4Xxb2L-26" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-797" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="u6FpV8aDj4UNGr4Xxb2L-26" vertex="1">
+          <mxGeometry x="60" y="100" width="80" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
