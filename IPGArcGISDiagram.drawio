@@ -1,20 +1,20 @@
-<mxfile host="www.draw.io" modified="2020-02-21T13:02:26.732Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="v7yCA_OJCYXoPuucWNcU" version="12.7.2" type="github">
+<mxfile host="www.draw.io" modified="2020-02-21T13:10:58.419Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="1wKpkIHaTPhEp74iD8Ru" version="12.7.2" type="github">
   <diagram id="RrptMt3UVPA0-fgu4y3d" name="Page-1">
-    <mxGraphModel dx="5383" dy="-1586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" background="none" math="0" shadow="1">
+    <mxGraphModel dx="5826" dy="-1309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0q95Ox6IrnCO5N_9KqnD-8" value="&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;P-GIS-WEB01-B 2.251&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;verticalAlign=top;align=center;fillColor=#d5e8d4;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1000.19" y="5720" width="120" height="120" as="geometry" />
+          <mxGeometry x="-1480" y="5680" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0q95Ox6IrnCO5N_9KqnD-9" value="&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;P-GIS-WEB01-B 2.251&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;verticalAlign=top;align=center;fillColor=#d5e8d4;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1840" y="5680" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0q95Ox6IrnCO5N_9KqnD-7" value="&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;P-GIS-WEB01-A 2.250&lt;/font&gt;&lt;font face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;verticalAlign=top;align=center;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="-1360" y="5720" width="120" height="120" as="geometry" />
+          <mxGeometry x="-1280" y="5680" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0q95Ox6IrnCO5N_9KqnD-6" value="&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;P-GIS-WEB01-A 2.250&lt;/font&gt;&lt;font face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;verticalAlign=top;align=center;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="-1520" y="5720" width="120" height="120" as="geometry" />
+          <mxGeometry x="-1640" y="5680" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-115" value=".2" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=10;dashed=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;fontColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry x="-480" y="4600" width="3810" height="2800" as="geometry" />
@@ -2294,20 +2294,20 @@
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-223" value="ArcGIS Enterprise" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontSize=10;fontColor=#3333FF;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-3550" y="5550" width="1320" height="880" as="geometry" />
         </mxCell>
-        <mxCell id="AnNf2u-RFWLlp_xf4QVU-101" value="&lt;div&gt;&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;P-GIS-APP01-B 2.181&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;Secondary&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;vdb6.vmware.local&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;verticalAlign=bottom;fillColor=#d5e8d4;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1000" y="5880" width="120" height="120" as="geometry" />
+        <mxCell id="AnNf2u-RFWLlp_xf4QVU-101" value="&lt;div&gt;&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;P-GIS-APP01-B 2.181&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;Secondary&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;verticalAlign=bottom;fillColor=#d5e8d4;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1480" y="5840" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="AnNf2u-RFWLlp_xf4QVU-64" value="&lt;div&gt;&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;P-GIS-API02-A 2.246&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;Primary&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;vapp82.vmware.local&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;verticalAlign=bottom;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="-1360" y="5880" width="120" height="120" as="geometry" />
+        <mxCell id="AnNf2u-RFWLlp_xf4QVU-64" value="&lt;div&gt;&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;P-GIS-API02-A 2.246&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;Primary&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;verticalAlign=bottom;fillColor=#d5e8d4;" parent="1" vertex="1">
+          <mxGeometry x="-1280" y="5840" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="AnNf2u-RFWLlp_xf4QVU-63" value="&lt;div&gt;&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;P-GIS-APP01-A 2.180&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;Primary&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;vapp132.vmware.local&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;verticalAlign=bottom;fillColor=#d5e8d4;fontColor=#000000;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1520" y="5880" width="120" height="120" as="geometry" />
+        <mxCell id="AnNf2u-RFWLlp_xf4QVU-63" value="&lt;div&gt;&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;P-GIS-APP01-A 2.180&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;Primary&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;verticalAlign=bottom;fillColor=#d5e8d4;fontColor=#000000;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1640" y="5838.5" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-68" value="&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;P-GIS-WEB01-A 2.250&lt;/font&gt;&lt;font face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;verticalAlign=top;align=center;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="-2000" y="5680" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-91" value="&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;P-GIS-WEB01-B 2.251&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;verticalAlign=top;align=center;fillColor=#d5e8d4;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1160" y="5720" width="120" height="120" as="geometry" />
+          <mxGeometry x="-1119.62" y="5680" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="1" source="AnNf2u-RFWLlp_xf4QVU-94" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2316,16 +2316,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-102" value="Portal.b" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
-          <mxGeometry x="-980" y="5890" width="80" height="40" as="geometry" />
+          <mxGeometry x="-1460" y="5860" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AnNf2u-RFWLlp_xf4QVU-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="1" source="AnNf2u-RFWLlp_xf4QVU-104" target="AnNf2u-RFWLlp_xf4QVU-102" edge="1">
+        <mxCell id="AnNf2u-RFWLlp_xf4QVU-103" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="1" source="AnNf2u-RFWLlp_xf4QVU-104" target="AnNf2u-RFWLlp_xf4QVU-102" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0q95Ox6IrnCO5N_9KqnD-2" style="edgeStyle=none;rounded=0;jumpStyle=arc;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="AnNf2u-RFWLlp_xf4QVU-104" target="AnNf2u-RFWLlp_xf4QVU-59">
+        <mxCell id="0q95Ox6IrnCO5N_9KqnD-2" style="rounded=0;jumpStyle=arc;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AnNf2u-RFWLlp_xf4QVU-104" target="AnNf2u-RFWLlp_xf4QVU-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-104" value="PortalWA.b" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
-          <mxGeometry x="-980" y="5770" width="80" height="40" as="geometry" />
+          <mxGeometry x="-1459.81" y="5730" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-106" value="&lt;div&gt;&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;P-GIS-API01-B 2.183&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri, arial, helvetica, sans-serif&quot; color=&quot;#3333ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;Secondary&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;verticalAlign=bottom;fillColor=#d5e8d4;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1840" y="5838.5" width="120" height="120" as="geometry" />
@@ -2355,7 +2355,7 @@
           <mxGeometry x="-1980" y="5730" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-59" value="Portal.a" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
-          <mxGeometry x="-1500" y="5890" width="80" height="40" as="geometry" />
+          <mxGeometry x="-1620" y="5858.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-72" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="1" source="AnNf2u-RFWLlp_xf4QVU-70" target="AnNf2u-RFWLlp_xf4QVU-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2364,22 +2364,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-70" value="PortalWA.a" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
-          <mxGeometry x="-1500" y="5770" width="80" height="40" as="geometry" />
+          <mxGeometry x="-1620" y="5730" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AnNf2u-RFWLlp_xf4QVU-93" value="&lt;div&gt;&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;P-GIS-API02-B 2.247&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;Secondary&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;vapp11.vmware.local&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;verticalAlign=bottom;fillColor=#d5e8d4;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1160" y="5880" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;endArrow=none;endFill=0;fontSize=10;" parent="1" source="AnNf2u-RFWLlp_xf4QVU-94" target="AnNf2u-RFWLlp_xf4QVU-102" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="AnNf2u-RFWLlp_xf4QVU-93" value="&lt;div&gt;&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;P-GIS-API02-B 2.247&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;Secondary&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;verticalAlign=bottom;fillColor=#d5e8d4;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1119.62" y="5838.5" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-94" value="Hosted.b" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
-          <mxGeometry x="-1140" y="5890" width="80" height="40" as="geometry" />
+          <mxGeometry x="-1099.62" y="5858.5" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AnNf2u-RFWLlp_xf4QVU-95" value="&lt;div&gt;&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;P-GIS-DB01-B 2.249&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;Secondary&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;vapp7.vmware.local&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;verticalAlign=bottom;fillColor=#d5e8d4;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1160" y="6040" width="120" height="120" as="geometry" />
+        <mxCell id="AnNf2u-RFWLlp_xf4QVU-95" value="&lt;div&gt;&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;P-GIS-DB01-B 2.249&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;Secondary&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;verticalAlign=bottom;fillColor=#d5e8d4;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1280" y="6000" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-96" value="Datastore.b" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
-          <mxGeometry x="-1130" y="6050" width="60" height="40" as="geometry" />
+          <mxGeometry x="-1250" y="6020" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="1" source="AnNf2u-RFWLlp_xf4QVU-98" target="AnNf2u-RFWLlp_xf4QVU-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2388,28 +2385,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-98" value="HostedWA.b" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
-          <mxGeometry x="-1140" y="5770" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="AnNf2u-RFWLlp_xf4QVU-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="AnNf2u-RFWLlp_xf4QVU-96" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1020" y="5910" as="sourcePoint" />
-            <mxPoint x="-1090" y="6040" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-1020" y="6070" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="-1099.62" y="5730" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-60" value="Hosted.a" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
-          <mxGeometry x="-1340" y="5890" width="80" height="40" as="geometry" />
+          <mxGeometry x="-1260" y="5860" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AnNf2u-RFWLlp_xf4QVU-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="1" source="AnNf2u-RFWLlp_xf4QVU-60" target="AnNf2u-RFWLlp_xf4QVU-59" edge="1">
+        <mxCell id="AnNf2u-RFWLlp_xf4QVU-66" value="&lt;div&gt;&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;P-GIS-DB01-A 2.248&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;Primary&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;verticalAlign=bottom;fillColor=#d5e8d4;" parent="1" vertex="1">
+          <mxGeometry x="-1480" y="6000" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0q95Ox6IrnCO5N_9KqnD-19" style="edgeStyle=none;rounded=0;jumpStyle=arc;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AnNf2u-RFWLlp_xf4QVU-67" target="AnNf2u-RFWLlp_xf4QVU-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AnNf2u-RFWLlp_xf4QVU-66" value="&lt;div&gt;&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;P-GIS-DB01-A 2.248&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3333ff&quot; face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;Primary&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri, arial, helvetica, sans-serif&quot;&gt;vapp82.vmware.local&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;verticalAlign=bottom;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="-1360" y="6040" width="120" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-67" value="Datastore.a" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
-          <mxGeometry x="-1330" y="6050" width="60" height="40" as="geometry" />
+          <mxGeometry x="-1450" y="6020" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;fontColor=#3333FF;" parent="1" source="AnNf2u-RFWLlp_xf4QVU-69" target="AnNf2u-RFWLlp_xf4QVU-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2418,15 +2406,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AnNf2u-RFWLlp_xf4QVU-69" value="HostedWA.a" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
-          <mxGeometry x="-1340" y="5770" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="AnNf2u-RFWLlp_xf4QVU-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#3333FF;" parent="1" target="AnNf2u-RFWLlp_xf4QVU-67" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1380" y="5910" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-1380" y="6070" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="-1260" y="5730" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-749" value="" style="group" parent="1" vertex="1" connectable="0" treatAsSingle="0">
           <mxGeometry x="-920" y="6080" width="200" height="240" as="geometry" />
@@ -2458,12 +2438,6 @@
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-179" value="Application" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;labelBackgroundColor=none;align=center;" parent="IM_9Rua3a0QNbLJxY3Cq-180" vertex="1">
           <mxGeometry x="60" y="110" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1055" value="Microsoft (MLB)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=middle;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
-          <mxGeometry x="-999.62" y="5590" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0sa8Q4lDrQcxCernjeHR-12" value="Microsoft (MLB)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=middle;fontSize=10;fontColor=#3333FF;" parent="1" vertex="1">
-          <mxGeometry x="-1520" y="5590" width="120" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="0q95Ox6IrnCO5N_9KqnD-4" style="rounded=0;jumpStyle=arc;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AnNf2u-RFWLlp_xf4QVU-109" target="AnNf2u-RFWLlp_xf4QVU-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -2472,6 +2446,18 @@
         </mxCell>
         <mxCell id="0q95Ox6IrnCO5N_9KqnD-11" value="Microsoft (MLB)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=middle;fontSize=10;fontColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="-2000" y="5700" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0q95Ox6IrnCO5N_9KqnD-15" value="Microsoft (MLB)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=middle;fontSize=10;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="-1640" y="5700" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0q95Ox6IrnCO5N_9KqnD-16" value="Microsoft (MLB)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=middle;fontSize=10;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="5700" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0q95Ox6IrnCO5N_9KqnD-17" value="Microsoft (MLB)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=middle;fontSize=10;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="5700" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0q95Ox6IrnCO5N_9KqnD-18" value="Microsoft (MLB)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=middle;fontSize=10;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="5700" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
