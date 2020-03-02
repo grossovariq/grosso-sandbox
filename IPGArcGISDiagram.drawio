@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-03-02T23:13:10.898Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="wk98LZhCKl2F5h9bYSfj" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-03-02T23:13:47.278Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="EDT-Tyg7PlfQX0BCYMCr" version="12.7.9" type="github">
   <diagram id="RrptMt3UVPA0-fgu4y3d" name="Page-1">
-    <mxGraphModel dx="4577" dy="-677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" background="none" math="0" shadow="1">
+    <mxGraphModel dx="11707" dy="3893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2200" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -467,7 +467,7 @@
           <mxGeometry x="-1860" y="2270" width="2320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1062" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-720" y="4610" width="120" height="120" as="geometry" />
+          <mxGeometry x="-630" y="4610" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1061" value="&lt;font color=&quot;#3333ff&quot;&gt;Server&lt;br&gt;&lt;/font&gt;&lt;font&gt;&lt;br&gt;Primary&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;labelBackgroundColor=none;" parent="IM_9Rua3a0QNbLJxY3Cq-1062" vertex="1">
           <mxGeometry width="120" height="120" as="geometry" />
@@ -476,7 +476,7 @@
           <mxGeometry x="20" y="70" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1064" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-580" y="4610" width="120" height="120" as="geometry" />
+          <mxGeometry x="-490" y="4610" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="IM_9Rua3a0QNbLJxY3Cq-1063" value="&lt;font&gt;&lt;font color=&quot;#3333ff&quot;&gt;Not a device, it&#39;s a route&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=10;align=center;fillColor=#d5e8d4;verticalAlign=top;labelBackgroundColor=none;" parent="IM_9Rua3a0QNbLJxY3Cq-1064" vertex="1">
           <mxGeometry width="120" height="120" as="geometry" />
